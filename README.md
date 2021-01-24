@@ -1,2 +1,2 @@
 # Bedrock
-Chunk Streaming System For Unity
+Library of utilities for easier development between Java MIDP & Java SE.
